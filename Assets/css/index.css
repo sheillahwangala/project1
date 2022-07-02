@@ -1,0 +1,29 @@
+* {
+    background-color: #FAFAFA;
+}
+#header {
+    padding: 20px;
+    align-items: center;
+    border: 20px;
+    display: flex;
+    flex-direction: row;
+
+}
+#Get started {
+    font-weight: bold;
+    font-size: larger;
+    color: white;
+    padding: 6px;
+    border: 6px #2549D3;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-weight: 200px;
+    padding: 20px;
+    width: 100px;
+    align-items: center;
+}
+
+
+
