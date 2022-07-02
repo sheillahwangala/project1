@@ -1,29 +1,80 @@
 * {
     background-color: #FAFAFA;
+    padding: 8px;
+    
+    
 }
-#header {
-    padding: 20px;
-    align-items: center;
-    border: 20px;
+#banner {
+    background-color: whitesmoke;
+    background-size: cover;
+    
+}
+
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-family: 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+} 
+
+.topnav{
+    margin: 10px;
+    top: 1%;
     display: flex;
     flex-direction: row;
+}
 
-}
-#Get started {
-    font-weight: bold;
-    font-size: larger;
-    color: white;
-    padding: 6px;
-    border: 6px #2549D3;
-}
-h2 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-style: italic;
-    font-weight: 200px;
-    padding: 20px;
+.topnav a{
     width: 100px;
-    align-items: center;
+    text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 12px;
+    color: black;
+    border: 5px white;
+    z-index: 1;
+    transition: 0.05s;
 }
+#getstarted {
+    background-color: #2549D3;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: 14px;
+    border-style: double;
+        
+}
+#thome {
+    width: 1400px;
+    height: 80px;
+    position: relative;
+    text-align: left;
+    color: black;
+    padding-top: 10px;
+    margin: auto;
+}
+#tdesc {
+    width: 600px;
+}
+.imone{
+    width: 600px;
+    top: 1%;
+    left: 1%;  
+}
+.image1 {
+    padding-left: 20px;
+
+    
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+}
+
+
 
 
 
