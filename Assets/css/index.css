@@ -1,7 +1,8 @@
 * {
     background-color: #FAFAFA;
-    padding: 8px;
-    
+    padding-left: 20px;
+    font-style: Space Grotesk, Oleo Script;
+    border: 8px;   
     
 }
 #top {
@@ -11,29 +12,36 @@
     padding-right: 10px;    
 }
 #tmain {
-    width: 1000px;
+    width: 1200px;
     text-align: center;
 }
 
+
 .topnav a{
-    width: 100px;
+    width: 120px;
     text-decoration: none;
-    text-align: center;
     font-size: 20px;
-    display: inline-block;
     margin: 0 10px;
-    padding: 12px 0;
+    display: inline-block;
+    padding: 8px 0;
     color: black;
-    border: 5px white;
+    border: 5px black;
     z-index: 1;
     transition: 0.05s;
-    position: relative;    
+    position: relative; 
+           
+}
+
+#image1 {
+    padding-left: 10px;
+    padding-top: 200px;
+    border-bottom: 0px;
 }
 
 #tmainn {
     width: 1000px;
     text-align: left;
-    padding-left: 20px;    
+    padding-left: 50px;    
 }
 
 #tdesc {
@@ -42,17 +50,65 @@
 #btn-get {
     background-color: #2549D3;
     color: white;
-    width: 100px;
-    height: 40px;
-    font-size: 14px;  
+    width: 120px;
+    height: 50px;
+    font-size: 18px; 
+    border-style: hidden; 
 }
 .imone {
-    width: 500px;
-    height: 300px;
+    width: 600px;
+    height: 450px;
 }
-.addmark {
-    width: 70px;
-    height: 70px;
+
+#tloc {
+    width: 800px;
+    background-color: white;
+    height: 80px;
+    padding-left: 40px;
+}
+
+
+
+#tprop {
+    width: 1000px;
+}
+
+#tind {
+    background-color: white;
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+.image2 {
+    width: 300px;
+    height: 200px;
+}
+
+#btn-view {
+    background-color: #0F298B;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-size: 10px;
+
+}
+
+#customer {
+    width: 1000px;
+}
+
+#bottom {
+    background-color: #2549D3;
+    color: white;
+
+}
+#tbottom {
+    width: 1000px;
+    text-align: center
+}
+
+#h2 {
+    color: #0F298B;
 }
 
 
