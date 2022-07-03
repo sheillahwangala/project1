@@ -1,19 +1,24 @@
 * {
-    background-color: #FAFAFA;
-    padding-left: 20px;
+    background-color: white;
+    padding: 10px;
     font-style: Space Grotesk, Oleo Script;
-    border: 8px;   
+    border: 8px; 
+    border-style: hidden;  
     
 }
 #top {
-    background-color: whitesmoke;
+    background-color: #FAFAFA;
     background-size: cover;
     height: 250vh;
     padding-right: 10px;    
 }
 #tmain {
-    width: 1200px;
+    width: 1300px;
     text-align: center;
+    padding-right: 50px;
+    padding-bottom: 5px;
+    border-bottom-style: inset;
+    border-color: gray;
 }
 
 
@@ -39,13 +44,35 @@
 }
 
 #tmainn {
-    width: 1000px;
-    text-align: left;
-    padding-left: 50px;    
+    width: 1300px;
+    text-align: left;   
+    padding-right: 50px;
+    padding-top: 50px;
+    
 }
 
 #tdesc {
-    width: 500px;
+    width: 700px;   
+}
+
+.Helping {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    color: #0F298B;
+    font-size: 44px;  
+    padding-left: 8px;
+    text-align: left;    
+}
+
+.Creating {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: rgb(54, 53, 53);
+}
+.learn {
+    display: flex;
+    flex-direction: row;
+
 }
 #btn-get {
     background-color: #2549D3;
@@ -57,24 +84,27 @@
 }
 .imone {
     width: 600px;
-    height: 450px;
+    height: 400px;
+    padding-right: 60px;
 }
 
 #tloc {
-    width: 800px;
-    background-color: white;
+    width: 1000px;
+    background-size: cover;
+    background-color: #FAFAFA;
     height: 80px;
-    padding-left: 40px;
+    padding: 100px;
+    text-align: center;
+    padding-right: 100px;
+
 }
-
-
 
 #tprop {
     width: 1000px;
 }
 
 #tind {
-    background-color: white;
+    background-color: #FAFAFA;
     text-align: center;
     width: 300px;
     height: 200px;
