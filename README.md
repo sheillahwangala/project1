@@ -19,4 +19,5 @@ HTML CSS
 
 ## Support and contact details
 Incase of any feedback, response, assistance and criticism, as well as if you would like to be helped, contact me via: Phone: +254 728364448; email:sheillah.wangala@gmail.com
-
+## Licence
+As the owner of this document, I hereby grant any viewer of this document a limited , revocable and nonexclusive licence to access and use of this project.
