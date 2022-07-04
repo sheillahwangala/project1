@@ -185,5 +185,12 @@
     border-right: 0ch;
 }
 
+#footer {
+    background-color: #2549D3;
+    color: white;
+    flex: auto;
+    flex-direction: row;
+}
+
 
 
