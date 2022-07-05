@@ -1,4 +1,6 @@
-## sheillahwangala
+## Portfolio
+By Sheillah Wangala.
+
 This project entails the use of HTML and CSS concepts to produce a real estate website page. compiled by by sheillahwangala
 
 ## Description
@@ -22,5 +24,6 @@ Incase of any feedback, response, assistance and criticism, as well as if you wo
 ## Licence
 As the owner of this document, I hereby grant any viewer of this document a limited , revocable and nonexclusive licence to access and use of this project.
 ## Copyright
-copyright&copy2022sheillahwangala
+copyright(c)2022sheillahwangala
+
 All rights reserved. No part of this publication may be reproduced, distributed =, or transmitted in any form by any means without rior written permission of the author.
