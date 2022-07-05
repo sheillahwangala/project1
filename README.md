@@ -1,5 +1,5 @@
 ## Portfolio
-#### By Sheillah Wangala.
+##### By Sheillah Wangala.
 
 
 
@@ -7,11 +7,10 @@
 This a website about Vallie's estate real estate company.
 
 ## Installation 
-### Requirements
+#### Requirements
     - A computer, smartphone, ipad or tablet.
     - An access to the Internet
-
-### Process
+#### Process
 Ensure you are in your prefered folder, where you want it to be set up. run this command in your terminal git clone live site view live
 
 It should be easy to deploy
