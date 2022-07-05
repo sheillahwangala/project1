@@ -198,3 +198,7 @@
     border: 20px;
     margin: 20px;
 }
+#coptright{
+    font-weight: bold;
+    float: right;
+}
