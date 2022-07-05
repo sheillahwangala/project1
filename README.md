@@ -1,3 +1,9 @@
+## Portfolio
+##### By Sheillah Wangala.
+
+## Project Name
+#####Vallie's Estate Website.
+## Table of Contents
 <!-- vscode-markdown-toc -->
 * 1. [Description](#Description)
 * 2. [Installation](#Installation)
@@ -11,10 +17,7 @@
 	numbering=true
 	autoSave=true
 	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->**Portfolio**
-##### By Sheillah Wangala.
-
-
+<!-- /vscode-markdown-toc -->
 
 ##  1. <a name='Description'></a>Description
 This a website about Vallie's estate real estate company.
@@ -32,11 +35,16 @@ It should be easy to deploy
 In this project, I used the following technologies:
     - HTML: Used to build the structure of the pages.
     - CSS: Used to add style to the pages.
-##  4. <a name='LicenceandCopyright'></a>Licence and Copyright
-Copyright(c)[2022][sheillahwangala]
+##  4. <a name='Licence'></a>Licence
+MIT Licence
 
-As the owner of this document, I hereby grant any viewer of this document a limited , revocable and nonexclusive licence to access and use of this project. 
-All rights reserved. No part of this publication may be reproduced, distributed =, or transmitted in any form by any means without rior written permission of the author.
+Copyright(c) 2022 sheillahwangala
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ##  5. <a name='ContactAuthor'></a>Contact Author
 Incase of any feedback, response, assistance and criticism, as well as if you would like to be helped, contact me via: 
