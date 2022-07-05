@@ -1,197 +1,200 @@
-* {
-    background-color: white;
-    padding: 12px;
-    font-style: Space Grotesk, Oleo Script;
-    border: 10px; 
-    border-style: hidden;  
-    
-}
-#top {
-    background-color: #FAFAFA;
-    background-size: cover;
-    height: 250vh;
-    padding-right: 10px;    
-}
-#tmain {
-    width: 1300px;
-    text-align: center;
-    padding-right: 50px;
-    padding-bottom: 5px;
-    border-bottom-style: inset;
-    border-color: gray;
-}
-
-
-.topnav a{
-    width: 120px;
-    text-decoration: none;
-    font-size: 20px;
-    margin: 0 10px;
-    display: inline-block;
-    padding: 8px 0;
-    color: black;
-    border: 5px black;
-    z-index: 1;
-    transition: 0.05s;
-    position: relative; 
-           
-}
-
-#image1 {
-    padding-left: 10px;
-    padding-top: 200px;
-    border-bottom: 0px;
-}
-
-#tmainn {
-    width: 1300px;
-    text-align: left;   
-    padding-right: 50px;
-    padding-top: 50px;
-    
-}
-
-#tdesc {
-    width: 700px;   
-}
-
-.Helping {
-    font-family: 'Courier New', Courier, monospace;
-    font-style: normal;
-    color: #0F298B;
-    font-size: 44px;  
-    padding-left: 8px;
-    text-align: left;    
-}
-
-.Creating {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-    color: rgb(54, 53, 53);
-}
-.learn {
+#top{
+    padding: 20px;
+    width: 1200px;
+    border-bottom-style: solid grey;
     display: flex;
     flex-direction: row;
-
+    margin: 4px;
+    background-clip: border-box;
+    box-shadow: 5px 5px 2em;
+    flex-wrap: wrap;
+    float: inherit; 
+    font-weight: bold; 
+    
 }
-#btn-get {
-    background-color: #2549D3;
+.vallie{
+    width: 300px;
+}
+.topp{
+    width: 100px;
+    padding-right: 20px;
+    
+}
+#btn-get{
     color: white;
-    width: 120px;
+    background-color: #2549D3;
+    border-style: none;
     height: 50px;
-    font-size: 18px; 
-    border-style: hidden; 
+    width: 120px;
+    font-size: 18px;
+       
 }
-.imone {
+#second{
+    width: 1200px;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.helping{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.bold{
+    color: #2549D3;
+    font-family: 'Courier New', Courier, monospace;
+}
+.create{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.image1{
+    width: 40px;
+    padding-left: 40px;
+    border-bottom: 0px;
+}
+.imone{
     width: 600px;
     height: 400px;
     padding-right: 60px;
 }
-
-#tloc {
-    width: 1000px;
-    background-size: cover;
-    background-color: #FAFAFA;
-    height: 80px;
+.third{
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    width: 800px;
+    border: 20px;
+    padding-left: 100px;
+    align-self: center;
+    background-color: white;
+}
+#loc{
+    color: #2549D3;
+    border-style: none;
+    font-size: 15px;   
+    text-align: center;
+    padding-left: 20px;
+    margin: 10px;
+}
+.lekki{
+    text-align: center;
+    width: 100px;
+}
+.forth{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
     padding: 20px;
-    text-align: center;
-    padding-right: 100px;
-    border-style: hidden;
-
+    border: 10px;
+    padding-left: 50px;
+    margin: 20px;
 }
-#tprop {
-    width: 1000px;
-    background-size: cover;
-    text-align: center;
+.prod{
+    color: #0f298B;
+    font-size: 30PX;
+    border: 20px;
+    margin: 20px;
 }
 
-.products {
+.fifth{
+    display: flex;
+    flex-direction: row;
+    border: 10px;
+    margin: 20px;
+    -ms-flex-align: center;
+    width: 1200px;
+    padding: 20px;
+    background-color: white;
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 300px;
+    margin: 20px;
+    border: 20px;
+    background-color: white;
+    text-align: center;
+    padding: 20px;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 35px;
-    color: #0F298B;
-    text-align: top;
-    padding-top: 0px;
-    width: 400px;
 }
-
-#works {
-    text-align: left;
-    padding-left: 0px;
-    padding-right: 100px; 
-     
+.addmark{
+    width: 100px;
 }
+.sixth{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+   padding: 20px;
+   border: 10px;
+   margin: 20px;
+}
+.world{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+}
+.dd{
+    color: #0f298B;
 
-#tind {
-    background-color: #FAFAFA;
-    text-align: center;
+}
+.seventh{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 1200px;
+}
+.photos{
+    display: flex;
+    flex-direction: row;
+    border: 20px;
+    margin: 20px;
+    padding: 20px;
+}
+.palace{
     width: 300px;
     height: 200px;
-    padding: 10px;
-    font-size: 25px;
-    font-style: normal;
-    font-weight: lighter;
 }
-.image2 {
+.ppl{
+    display: flex;
+    flex-direction: column;
     width: 400px;
-    height: 200px;
 }
-
-#btn-view {
-    background-color: #2549D3;
-    color: white;
-    width: 100px;
-    height: 40px;
-    font-size: 14px;
-
-}
-
-#customer {
-    width: 1000px;
-    position: relative;
-    padding: 1px;
-}
-
-#bottom {
-    background-color: #2549D3;
-    color: white;
-
-}
-#tbottom {
-    width: 1000px;
-    text-align: center
-}
-
-#tdesc {
-
-      text-align: left;
-    
-}
-.list1 {
-    text-align: start;
-   font-size: 20px;
-   font-weight: bold;
-
-}
-.feat {
-    font-family:'Courier New', Courier;
-    font-size: 30px;
-    width:600px;
-    text-align: center;
-}
-#three {
-    width: 400px;
-    padding-left: 0px;
-    text-align: left;
-    border-right: 0ch;
-}
-
-#footer {
-    background-color: #2549D3;
-    color: white;
-    flex: auto;
+.palace2{
+    display: flex;
     flex-direction: row;
+    border: 20px;
+    margin: 20px;
 }
-
-
-
-
+.tp{
+    width: 150px;
+}
+#btn-view{    
+    color: white;
+    background-color: #2549D3;
+    border-style: none;
+    height: 50px;
+    width: 120px;
+    font-size: 18px;
+    float: right;  
+}
+.alex{
+    display: flex;flex-direction: row;
+    background-color: white;
+}
+.bottom{
+    background-color: #2549D3;
+    color: white;
+    display: flex; flex-direction: row;
+    width: 1200px;   
+}
+.last{
+    width: 200px;
+    text-align: left;
+    border: 20px;
+    margin: 20px;
+}
