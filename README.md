@@ -2,7 +2,7 @@
 ##### By Sheillah Wangala.
 
 ## Project Name
-#####Vallie's Estate Website.
+##### Vallie's Estate Website.
 ## Table of Contents
 <!-- vscode-markdown-toc -->
 * 1. [Description](#Description)
