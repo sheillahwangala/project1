@@ -20,9 +20,8 @@ It should be easy to deploy
 In this project, I used the following technologies:
     - HTML 
     - CSS
-
 ## Licence and Copyright
-Copyright(c)2022sheillahwangala
+Copyright(c)[2022][sheillahwangala]
 
 As the owner of this document, I hereby grant any viewer of this document a limited , revocable and nonexclusive licence to access and use of this project. 
 All rights reserved. No part of this publication may be reproduced, distributed =, or transmitted in any form by any means without rior written permission of the author.
