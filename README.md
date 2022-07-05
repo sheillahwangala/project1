@@ -1,14 +1,7 @@
 ## Portfolio
 ##### By Sheillah Wangala.
 
-## Table of Contents
-    1.[Description](https://github.com/sheillahwangala/project1#description)
-    2.[Installation](https://github.com/sheillahwangala/project1#installation)
-        1.Requirements(https://github.com/sheillahwangala/project1#requirements)
-        2.Process(https://github.com/sheillahwangala/project1#process)
-    3.[Technology](https://github.com/sheillahwangala/project1#technology-used)
-    4.[Licence and Copyright](https://github.com/sheillahwangala/project1#licence-and-copyright)
-    5.[Contact Author](https://github.com/sheillahwangala/project1#contact-author)
+
 
 ## Description
 This a website about Vallie's estate real estate company.
