@@ -1,0 +1,387 @@
+body{
+    width: 1200px; margin: 0 auto;
+    font-family: 'Space Grotesk', Oleo Script;
+}
+#upper{
+    background-color: #FAFAFA;
+    background-size: cover;
+    border-style: ridge;
+    border-style: none;
+    padding: 40px;
+}
+#top{
+    border-bottom-style: inset;
+    display: flex;
+    flex-direction: row;
+    background-clip: border-box;
+    flex-wrap: wrap;
+    float: inherit; 
+    font-weight: bold; 
+}
+
+#top .menu{
+    text-align: center;
+}
+
+#top .menuitem{
+    display:block;
+    float:left;
+    position:relative;
+    width:100px;
+    text-align:center;
+}
+
+#top .menuitem ul li{
+    text-decoration: none;
+}
+
+#top .menuitem ul li a{
+    color: #0f298B;
+}
+
+
+.menuitem ul li a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+#top .menuitem button{
+    margin-left: 100px;
+}
+
+#top .vallie{
+    width: 300px;
+    padding-bottom: 10px;
+    padding-top: 0px;
+}
+
+
+.menuitem a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.content{
+    margin: auto;
+}
+
+
+.topp{
+    padding-right: 20px;
+}
+
+
+.second{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.second .text{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    
+    text-align: center;
+    padding: 20px;
+    text-decoration-color: #2549D3;
+}
+
+
+.second .text h1{
+    font-size: 40px;
+    color: #2549D3;
+    
+}
+
+.second .text .sub-title p{
+    text-decoration-color: #2549D3;
+    color: black;
+    
+}
+
+.second .lnb{
+    display: flex;
+    flex-direction: row;
+    padding-left: 150px;
+    padding-top: 60px;
+}
+
+#btn-get{
+    color: white;
+    background-color: #2549D3;
+    border-style: none;
+    height: 50px;
+    width: 120px;
+    font-size: 18px;  
+    border-radius: 8px;
+}
+
+#btn-play{
+    border-style: none;
+    height: 50px;
+    width: 60px;
+    font-size: 18px;  
+    border-radius: 8px;
+    padding-left: 30px;
+    background-color: #FAFAFA;
+}
+
+#btn-play img{
+    border-style: none;
+    height: 50px;
+    width: 60px;
+    font-size: 18px;  
+    border-radius: 8px;
+}
+
+
+.create{
+    
+    font-size: 20px;
+}
+.image1{
+    width: 50px;
+    padding-left: 40px;
+    border-bottom: 0px;
+}
+.imone{
+    width: 600px;
+    height: 400px;
+    padding-right: 60px;
+}
+.third{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 60px;
+    align-self: center;
+    background-color: white;
+    text-align: center;
+    padding-left: 10%;
+}
+
+.title .sub-title{
+    font-size: 20px;
+    text-align: center;
+}
+
+.title .sub-title .one h1{
+    color: #0f298B;
+    text-align: center;
+}
+
+.title .sub-title .two{
+    text-align: center;
+    font-size: 20px;
+}
+
+.third select{
+    background: none;
+    border-style: none;
+    height: 50px;
+    width: 150px;
+    font-size: 18px;  
+    border-radius: 8px;
+}
+
+.third p{
+    text-align: center;
+}
+
+#btn-search{
+    float: left;
+    padding-top: 40px;
+    position: relative;
+    padding-left: 100px;
+    float: right;
+}
+
+#loc{
+    color: #2549D3;
+    border-style: none;
+    font-size: 15px;   
+    text-align: center;
+    padding-left: 20px;
+    margin: 10px;
+
+}
+.lekki{
+    text-align: center;
+}
+.forth{
+    margin: 20px;
+}
+
+.forth .title{
+    color: #0f298B;
+    font-size: 30PX;
+}
+
+.forth .helping{
+    text-align: center;
+}
+
+.prod{
+    color: #0f298B;
+    font-size: 30PX;
+    border: 20px;
+    margin: 20px;
+}
+
+.fifth{
+    display: flex;
+    flex-direction: row;
+    border: 10px;
+    -ms-flex-align: center;
+}
+
+.fifth .home{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 400px;
+    margin: 20px;
+    border: 20px;
+    background-color: white;
+    text-align: center;
+    
+    padding: 50px;
+}
+
+#effects{
+
+    -webkit-box-shadow: 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 10px 6px -6px #777;
+         box-shadow: 0 10px 6px -6px #777;
+}
+
+.addmark{
+    width: 100px;
+}
+.sixth{
+    display: flex;
+    flex-direction: row;
+   padding: 20px;
+   border: 10px;
+   margin: 20px;
+}
+
+.sixth home{
+    float: right;
+}
+
+.world{
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+.world ul li{
+    list-style-type: none;
+    list-style-image: none;
+    
+}
+
+.world .w-left{
+    padding-left: 0px;
+}
+
+.dd{
+    color: #0f298B;
+
+}
+.seventh{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.photos{
+    display: flex;
+    flex-direction: row;
+    border: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.palace{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+}
+.ppl{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    position: center;
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+}
+.palace2{
+    display: flex;
+    flex-direction: row;
+    border: 20px;
+    margin: 20px;
+    background-color: white;
+}
+.tp{
+    width: 150px;
+}
+#btn-view{    
+    color: white;
+    background-color: #2549D3;
+    border-style: none;
+    height: 50px;
+    width: 120px;
+    font-size: 18px;
+    float: right; 
+    border-radius: 8px; 
+}
+
+.eighth{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.alex{
+    display: flex;
+    flex-direction: row;
+}
+
+.alex .home{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 400px;
+    margin: 20px;
+    border: 20px;
+    background-color: white;
+    
+    padding: 50px;
+}
+
+
+.bottom{
+    background-color: #2549D3;
+    color: white;
+    display: flex; flex-direction: row;
+    background-size: cover;
+    height: 300px;
+}
+.last{
+    width: 250px;
+    text-align: left;
+    border: 30px;
+    margin: 20px;
+}
+
+#copyright{
+    font-weight: bold;
+    text-align: center;
+}
